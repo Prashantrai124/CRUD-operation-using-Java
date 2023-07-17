@@ -9,6 +9,7 @@ import java.util.*;
 
 public class Main {
     // jdbc connetion
+    //This is a comment
     static Connection conn;
     static Statement stmt;
     static PreparedStatement pstmt;
